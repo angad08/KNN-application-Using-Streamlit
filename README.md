@@ -23,4 +23,4 @@ Create your own application on heroku or anywhere else. For My application deplo
 ![image](https://user-images.githubusercontent.com/47116187/144445875-6e1b6bc0-e1f4-42e4-b752-d557aa6f6d06.png)
 
 
-![image](https://user-images.githubusercontent.com/47116187/145243480-d1625772-5a65-44ad-a4c5-5aca73ed3ad6.png)
+![image](https://user-images.githubusercontent.com/47116187/145244437-30f3b125-5216-46f6-97b2-93d543c9de08.png)
