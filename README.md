@@ -12,7 +12,7 @@ There it might run.
 
 6.
 [OPTIONAL] 
-Create your own application on heroku or anywhere else. For My application deployed on heroku,The Link is _**https://kneighbors.herokuapp.com/**_ .Try Your own deployemnt.
+Create your own application on heroku or anywhere else. For My application deployed on heroku,The Link is _**https://knearestneighbours.herokuapp.com/**___ .Try Your own deployemnt.
   a. For deployment,You will Need an Account on heroku.
   b.Git app for git commands
   c. The Deployment commands are bit lengthy so refer the video link below:
